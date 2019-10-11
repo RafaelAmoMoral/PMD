@@ -1,0 +1,32 @@
+#form-container{
+    width: 40%;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.form-buttons{
+    display: flex;
+}
+
+.row{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 20px;
+}
+
+.btn-secundary{
+    background-color: #9aa7c0 !important;
+    color: white !important;
+}
+
+.myButtons{
+    width: 100px;
+    
+}
+
+#table-container{
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+}
+
